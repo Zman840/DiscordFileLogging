@@ -1,0 +1,12 @@
+{
+  "name": "discord-File-Logging",
+  "private": true,
+  "devDependencies": {},
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "dependencies": {
+    "discord.js": "hydrabolt/discord.js#indev",
+    "moment": "^2.10.6"
+  }
+}
